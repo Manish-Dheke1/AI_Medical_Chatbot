@@ -13,5 +13,5 @@ Knowledge base management (e.g., Faiss vector store)
 Conversational interface (e.g., command-line, web-based)
 
 
-License
+License:
 The project is licensed under the MIT License, which allows for open-source use, modification, and distribution of the code.
